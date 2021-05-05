@@ -1,18 +1,20 @@
-<h1 align="center">E aí pessoal 👋</h1>
-<h3 align="center">Analista desenvolvedor Protheus apaixonado por tudo que envolve o mundo da Tecnologia.</h3>
+<h1 align="center">Hi there, I'm Ramilson Sobral <img alt="Hi There!" width="30px" src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorsobral01&label=Profile%20views&color=0e75b6&style=flat" alt="juniorsobral01" /> </p>
-
-- 🔭 I’m currently working on **Grupo Elfa**
-- 🌱 I’m currently learning **Advpl, Flutter, NodeJS**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ramilsonsobral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="ramilsonsobral" height="30" width="40" /></a>
-<a href="https://instagram.com/juniorsobral01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="juniorsobral01" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/ramilsonsobral/" target="blank" alt="linkedin"><img align="center" style="margin: 2px" width="100px" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://codepen.io/ramilsonsobral/" target="blank" alt="codepen"><img align="center" style="margin: 2px" width="100px" alt="Codepen" src="https://img.shields.io/badge/Codepen-%23000000.svg?&style=flat-square&logo=codepen&logoColor=white" /></a>
+<a href="https://ramilsonsobral.com.br/" target="blank" alt="ramilsonsobral.com.br"><img align="center" style="margin: 2px" width="185px" alt="ramilsonsobral.com.br" src="https://img.shields.io/badge/🌐 ramilsonsobral.com.br-%2324292e.svg?&style=flat-square&logo=&logoColor=white" /></a>
+<img align="center" style="margin: 2px" width="132px" src="https://komarev.com/ghpvc/?username=ramilsonsobral&style=flat-square" alt="ramilsonsobral"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+💻 I’m Advpl Developer<br>
+🏡 I'm from Brazil, João Pessoa/PB <br>
+📚 I’m currently learning everything <br>
+🥅 2020 Goals: create a new project and find a new job <br>
+📫 How to reach me **ramilsonsobral@gmail.com** <br>
+⚡ Fun fact: I love movies and music at 70's, 80's and 90's<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorsobral01&show_icons=true&locale=en" alt="juniorsobral01" /></p>
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsobral01" alt="ramilsonsobral" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=juniorsobral01&show_icons=true" alt="ramilsonsobral" />
+</p>
